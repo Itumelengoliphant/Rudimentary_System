@@ -1,0 +1,13 @@
+C:\Users\Itu\Desktop\Projects\Visual Studio\Rudimentary System\RudimentarySystem\RudimentarySystem\bin\Debug\netcoreapp3.1\RudimentarySystem.exe
+C:\Users\Itu\Desktop\Projects\Visual Studio\Rudimentary System\RudimentarySystem\RudimentarySystem\bin\Debug\netcoreapp3.1\RudimentarySystem.deps.json
+C:\Users\Itu\Desktop\Projects\Visual Studio\Rudimentary System\RudimentarySystem\RudimentarySystem\bin\Debug\netcoreapp3.1\RudimentarySystem.runtimeconfig.json
+C:\Users\Itu\Desktop\Projects\Visual Studio\Rudimentary System\RudimentarySystem\RudimentarySystem\bin\Debug\netcoreapp3.1\RudimentarySystem.runtimeconfig.dev.json
+C:\Users\Itu\Desktop\Projects\Visual Studio\Rudimentary System\RudimentarySystem\RudimentarySystem\bin\Debug\netcoreapp3.1\RudimentarySystem.dll
+C:\Users\Itu\Desktop\Projects\Visual Studio\Rudimentary System\RudimentarySystem\RudimentarySystem\bin\Debug\netcoreapp3.1\RudimentarySystem.pdb
+C:\Users\Itu\Desktop\Projects\Visual Studio\Rudimentary System\RudimentarySystem\RudimentarySystem\obj\Debug\netcoreapp3.1\RudimentarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Itu\Desktop\Projects\Visual Studio\Rudimentary System\RudimentarySystem\RudimentarySystem\obj\Debug\netcoreapp3.1\RudimentarySystem.AssemblyInfoInputs.cache
+C:\Users\Itu\Desktop\Projects\Visual Studio\Rudimentary System\RudimentarySystem\RudimentarySystem\obj\Debug\netcoreapp3.1\RudimentarySystem.AssemblyInfo.cs
+C:\Users\Itu\Desktop\Projects\Visual Studio\Rudimentary System\RudimentarySystem\RudimentarySystem\obj\Debug\netcoreapp3.1\RudimentarySystem.dll
+C:\Users\Itu\Desktop\Projects\Visual Studio\Rudimentary System\RudimentarySystem\RudimentarySystem\obj\Debug\netcoreapp3.1\RudimentarySystem.pdb
+C:\Users\Itu\Desktop\Projects\Visual Studio\Rudimentary System\RudimentarySystem\RudimentarySystem\obj\Debug\netcoreapp3.1\RudimentarySystem.genruntimeconfig.cache
+C:\Users\Itu\Desktop\Projects\Visual Studio\Rudimentary System\RudimentarySystem\RudimentarySystem\obj\Debug\netcoreapp3.1\RudimentarySystem.csprojAssemblyReference.cache
